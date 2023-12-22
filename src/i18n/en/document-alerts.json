@@ -1,0 +1,8 @@
+{
+    "MESSAGE_ENTREGA_PENDENTE": "Document '${documento}' has ${count} releases foreseen not created",
+    "DESCRIPTION_ENTREGA_PENDENTE": "Provide the releases from references ${competencias}",
+    "MESSAGE_ENTREGA_AINDA_ABERTA": "Document '${documento}' has ${count} releases open",
+    "DESCRIPTION_ENTREGA_AINDA_ABERTA": "Finish the releases of ${competencias}",
+    "MESSAGE_PROXIMO_DA_ENTREGA": "Document '${documento}' scheduled to be released ${prazoRelativo}",
+    "DESCRIPTION_PROXIMO_DA_ENTREGA": "Provide the releases of ${competencias} - Until: ${prazo}"
+}

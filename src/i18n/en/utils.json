@@ -1,0 +1,5 @@
+{
+    "FOR_TODAY": "for today",
+    "FOR_TOMORROW": "for tomorrow",
+    "FOR_X_DAYS": "for from now ${dias} days"
+}

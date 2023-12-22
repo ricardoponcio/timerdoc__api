@@ -1,0 +1,59 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2021",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "paths": {
+      "@app/*": [
+        "./src/*"
+      ],
+      "@shared/*": [
+        "./src/resources/shared/*"
+      ],
+      "@templates/*": [
+        "./src/common/templates/*"
+      ],
+      "@database/*": [
+        "./src/config/database/*"
+      ],
+      "@storage/*": [
+        "./src/config/storage/*"
+      ],
+      "@security/*": [
+        "./src/config/security/auth/*"
+      ],
+      "@constants/*": [
+        "./src/core/constants/*"
+      ],
+      "@decorators/*": [
+        "./src/core/decorators/*"
+      ],
+      "@exceptions/*": [
+        "./src/core/exceptions/*"
+      ],
+      "@core-http/*": [
+        "./src/core/http/*"
+      ],
+      "@resources/*": [
+        "./src/resources/*"
+      ],
+      "@utils/*": [
+        "./src/utils/*"
+      ]
+    },
+    "incremental": true,
+    "skipLibCheck": true,
+    "strictNullChecks": false,
+    "noImplicitAny": true,
+    "strictBindCallApply": false,
+    "forceConsistentCasingInFileNames": false,
+    "noFallthroughCasesInSwitch": false
+  }
+}

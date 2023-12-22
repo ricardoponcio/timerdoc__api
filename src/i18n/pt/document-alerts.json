@@ -1,0 +1,8 @@
+{
+    "MESSAGE_ENTREGA_PENDENTE": "Documento '${documento}' possui ${count} entrega(s) prevista(s) não entregue(s)",
+    "DESCRIPTION_ENTREGA_PENDENTE": "Providencie as entregas referentes à ${competencias}",
+    "MESSAGE_ENTREGA_AINDA_ABERTA": "Documento '${documento}' possui ${count} entrega(s) em aberto",
+    "DESCRIPTION_ENTREGA_AINDA_ABERTA": "Conclua as entregas referentes à ${competencias}",
+    "MESSAGE_PROXIMO_DA_ENTREGA": "Documento '${documento}' possui uma entrega prevista para ${prazoRelativo}",
+    "DESCRIPTION_PROXIMO_DA_ENTREGA": "Providencie as entregas referentes à ${competencia} - Prazo: ${prazo}"
+}
