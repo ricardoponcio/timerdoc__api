@@ -83,20 +83,20 @@ timerdoc__api/
 - `npm run test` – Run tests
 - `npm run lint` – Lint code
 
-See all scripts in [package.json](c:/DEV/Pessoal/Timerdoc/timerdoc__api/package.json).
+See all scripts in [package.json](./package.json).
 
 ---
 
 ## Configuration
 
 - Environment variables are managed via `.env`.
-- Database and other configs are in [`src/config`](c:/DEV/Pessoal/Timerdoc/timerdoc__api/src/config).
+- Database and other configs are in [`src/config`](./src/config).
 
 ---
 
 ## Testing
 
-- Unit and e2e tests are in [`test/`](c:/DEV/Pessoal/Timerdoc/timerdoc__api/test).
+- Unit and e2e tests are in [`test/`](./test).
 - Run all tests:
   ```sh
   npm test
@@ -112,4 +112,8 @@ Pull requests are welcome! Please lint and test your code before submitting.
 
 ## License
 
-This project is **UNLICENSED**. See [package.json](c:/DEV/Pessoal/Timerdoc/timerdoc__api/package.json) for details.
+This project is **UNLICENSED**. See [package.json](./package.json) for details.
+
+## References
+
+- [Main Project](https://github.com/ricardoponcio/TimerDoc)
